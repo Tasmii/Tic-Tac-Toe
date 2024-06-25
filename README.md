@@ -82,7 +82,3 @@ This is a simple Tic Tac Toe game built with React. The game allows two players 
 ## Contributing
 
 Feel free to open issues or submit pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
